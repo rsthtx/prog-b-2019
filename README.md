@@ -1,10 +1,10 @@
-# prog-b-2019
+# Prog-B 2019-2021
 
 Her er en oversigt over projekter
 
 - [FPS demo](unity/fps-demo/)
 
-## Deltagere: Prog-B 2019-2021
+## Deltagere
 
 - [Mae Chee - buttermyeggs](https://buttermyeggs.github.io "Mae Chee")
     ([source](https://github.com/buttermyeggs/buttermyeggs.github.io))
