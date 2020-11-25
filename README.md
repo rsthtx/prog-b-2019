@@ -3,6 +3,7 @@
 Her er en oversigt over projekter
 
 - [FPS demo](unity/fps-demo/)
+- [Cubethon](brakeys-game-tutorial/web/)
 
 ## Deltagere
 
