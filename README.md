@@ -4,7 +4,7 @@ Her er en oversigt over projekter
 
 - [FPS demo](unity/fps-demo/)
 - [Cubethon](unity/brakeys-game-tutorial/web/)
-- [Cubethon](unity/bunny-climbing/)
+- [Bunny Climbing](unity/bunny-climbing/)
 
 ## Deltagere
 
